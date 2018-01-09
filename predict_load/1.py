@@ -100,7 +100,7 @@ def train_lstm():
         print("The train has finished")
 
 
-train_lstm()
+# train_lstm()
 
 #在预测时计算每次预测的误差，最后得出均方根误差MSE的值
 def prediction():
